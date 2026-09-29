@@ -1,0 +1,6 @@
+po_id,order_date,supplier,product,category,quantity,unit_price_inr,total_cost_inr,lead_time_days,delivered_on_time,quality_acceptance_pct
+PO-001,2026-01-05,Prime Steel Traders,SS Coil,Stainless Steel,100,155,15500,5,true,98.0
+PO-002,2026-01-12,National Pipe & Fittings,Flange Set,Fittings,50,220,11000,9,true,97.5
+PO-003,2026-02-03,Western Metals,MS Plate,Mild Steel,200,78,15600,7,false,96.0
+PO-004,2026-02-18,Prime Steel Traders,SS Sheet,Stainless Steel,80,148,11840,4,true,98.5
+PO-005,2026-03-04,Metro Industrial Supply,Nut Bolt Set,Fasteners,120,101,12120,6,true,97.0
