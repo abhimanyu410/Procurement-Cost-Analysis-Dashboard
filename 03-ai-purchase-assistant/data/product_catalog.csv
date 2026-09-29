@@ -1,0 +1,11 @@
+sku,product,category,unit,indicative_price_inr,lead_time_days
+SKU-001,SS Coil,Stainless Steel,kg,155.0,7
+SKU-002,SS Sheet,Stainless Steel,kg,148.0,8
+SKU-003,MS Plate,Mild Steel,kg,78.0,6
+SKU-004,MS Pipe,Mild Steel,kg,82.0,9
+SKU-005,Flat Bar,Structural Steel,kg,76.0,5
+SKU-006,Flange Set,Fittings,piece,220.0,10
+SKU-007,Nut Bolt Set,Fasteners,set,101.0,4
+SKU-008,Round Bar,Long Products,kg,91.0,7
+SKU-009,Pipe Fittings,Fittings,set,180.0,11
+SKU-010,Angle,Structural Steel,kg,72.0,6
